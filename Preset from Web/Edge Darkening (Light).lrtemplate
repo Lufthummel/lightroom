@@ -1,0 +1,15 @@
+s = {
+	id = "5623141D-FC6D-4D4E-A32A-BB165C5942BE",
+	internalName = "Edge Darkening (Light)",
+	title = "Edge Darkening (Light)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = -36,
+			VignetteMidpoint = 46,
+		},
+		uuid = "9B6DA93F-359F-4CAF-AC1A-DEF1F27820E1",
+	},
+	version = 0,
+}

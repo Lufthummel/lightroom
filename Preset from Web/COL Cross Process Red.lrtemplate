@@ -1,0 +1,28 @@
+s = {
+	id = "708C9E3C-AF0C-4520-ACE4-DDD8B7BF2FB3",
+	internalName = "COL Cross Process Red",
+	title = "COL Cross Process Red",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 54,
+			Contrast = 34,
+			EnableSplitToning = true,
+			Exposure = 0.22,
+			FillLight = 23,
+			HighlightRecovery = 32,
+			Shadows = 7,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 315,
+			SplitToningHighlightSaturation = 34,
+			SplitToningShadowHue = 56,
+			SplitToningShadowSaturation = 18,
+		},
+		uuid = "74A5CA9D-5AB4-47DF-AEFA-A791AB2C4A3C",
+	},
+	version = 0,
+}

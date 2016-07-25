@@ -1,0 +1,17 @@
+s = {
+	id = "5B42A9DD-06CF-46AB-8D07-1D477399C1A2",
+	internalName = "Matt's Portrait Sharpening (A little)",
+	title = "Matt's Portrait Sharpening (A little)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 40,
+			SharpenEdgeMasking = 90,
+			SharpenRadius = 1,
+			Sharpness = 70,
+		},
+		uuid = "61663B45-8ACE-422E-BF01-AF7D41182FC2",
+	},
+	version = 0,
+}

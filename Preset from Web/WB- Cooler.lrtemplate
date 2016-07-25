@@ -1,0 +1,15 @@
+s = {
+	id = "EC6CACB6-58C9-4EDC-B9E0-EA8061782CA0",
+	internalName = "WB: Cooler",
+	title = "WB: Cooler",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "39867228-F935-41B3-AD34-907341761467",
+	},
+	version = 0,
+}

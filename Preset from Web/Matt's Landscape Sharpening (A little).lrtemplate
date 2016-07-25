@@ -1,0 +1,17 @@
+s = {
+	id = "5F442300-C02E-48FB-9B72-8BA19ED224CC",
+	internalName = "Matt's Landscape Sharpening (A little)",
+	title = "Matt's Landscape Sharpening (A little)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 55,
+			SharpenEdgeMasking = 25,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "CD68AD0C-6320-47A9-9F51-5CEE78F478E3",
+	},
+	version = 0,
+}

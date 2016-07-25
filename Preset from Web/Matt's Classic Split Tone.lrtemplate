@@ -1,0 +1,18 @@
+s = {
+	id = "7E371420-17F9-4EF7-9D9F-5A936500D5DF",
+	internalName = "Matt's Classic Split Tone",
+	title = "Matt's Classic Split Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 23,
+			SplitToningHighlightSaturation = 16,
+			SplitToningShadowHue = 38,
+			SplitToningShadowSaturation = 24,
+		},
+		uuid = "F258142C-15FF-4DC2-8FC3-34A0B711ED5B",
+	},
+	version = 0,
+}

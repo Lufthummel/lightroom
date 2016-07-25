@@ -1,0 +1,15 @@
+s = {
+	id = "15ADB7A9-E1CD-492A-9A23-7D79BBD28E00",
+	internalName = "WB: Sun/Flash",
+	title = "WB: Sun/Flash",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 10,
+			WhiteBalance = "Daylight",
+		},
+		uuid = "816FF7D4-146F-4F32-8979-9A4B32AE7A2E",
+	},
+	version = 0,
+}

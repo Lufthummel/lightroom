@@ -1,0 +1,13 @@
+s = {
+	id = "8CCDC4C2-3B67-4B05-91B5-339A215253FD",
+	internalName = "WB: Auto",
+	title = "WB: Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "7ACE1429-2CA9-4C14-967F-97300588EA8E",
+	},
+	version = 0,
+}

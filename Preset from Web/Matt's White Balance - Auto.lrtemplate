@@ -1,0 +1,13 @@
+s = {
+	id = "1F292A66-4189-4A76-A231-9409A64D309E",
+	internalName = "Matt's White Balance - Auto",
+	title = "Matt's White Balance - Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "5EDD299E-9333-4AF6-9ECD-2C92918B4985",
+	},
+	version = 0,
+}

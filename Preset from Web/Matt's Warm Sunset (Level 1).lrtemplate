@@ -1,0 +1,17 @@
+s = {
+	id = "5121FB84-D6FD-4A80-AAED-F034F63F1ECC",
+	internalName = "Matt's Warm Sunset (Level 1)",
+	title = "Matt's Warm Sunset (Level 1)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 43,
+			IncrementalTint = 15,
+			Saturation = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "13A5E956-1024-420F-B070-A71C77FFA7BC",
+	},
+	version = 0,
+}

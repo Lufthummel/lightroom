@@ -1,0 +1,17 @@
+s = {
+	id = "E6253613-AF4D-479C-A71D-747B4AA1949F",
+	internalName = "Matt's Warm Sunset (Level 2)",
+	title = "Matt's Warm Sunset (Level 2)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 81,
+			IncrementalTint = 21,
+			Saturation = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "85970F8A-F93A-4780-ADCB-05EABE33531C",
+	},
+	version = 0,
+}

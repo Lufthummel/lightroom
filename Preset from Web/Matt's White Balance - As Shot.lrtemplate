@@ -1,0 +1,13 @@
+s = {
+	id = "62C40C90-94E3-4F45-8730-3670555EB989",
+	internalName = "Matt's White Balance - As Shot",
+	title = "Matt's White Balance - As Shot",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "As Shot",
+		},
+		uuid = "7B43EB89-239F-41DC-B05D-EC4B7400DAD8",
+	},
+	version = 0,
+}
